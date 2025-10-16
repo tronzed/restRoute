@@ -1,0 +1,54 @@
+RestRoute – travel, rest, repeat. 
+
+a Travel Adviser Website combining destinations, activities, hotels, and weather info! Let’s make a clear development plan and list free APIs you can use for each feature.
+
+🌍 Project Overview
+Goal:
+ A Travel Adviser web app that helps users explore places, fun activities, nearby hotels, and current/future weather forecasts for any city or tourist spot.
+Tech Stack (recommended):
+Frontend: React or Next.js + Tailwind CSS
+
+Backend: Node.js + Express (optional, if you need custom endpoints)
+
+Database (optional): MongoDB or Firebase (for saving favorites or user profiles)
+
+APIs: Free travel, places, and weather APIs (listed below)
+
+
+🧩 Feature Breakdown & API Plan
+Feature
+Description
+Suggested Free APIs
+🏰 Places & Attractions
+Show top attractions, landmarks, and fun things to do in a location
+OpenTripMap API (✅ Free tier, good coverage) → https://opentripmap.io
+
+🎯 Activities / Things to Do
+Fetch things like tours, hiking spots, museums, etc.
+Triposo API (limited free) or reuse OpenTripMap categories
+
+🏨 Nearby Hotels
+Show hotels near the selected destination
+Geoapify Places API (✅ free tier with hotels/POIs) → https://www.geoapify.com/places-api
+
+🌦️ Weather Forecast
+Display current weather & 7-day forecast
+Open-Meteo API (✅ 100% free, no API key) → https://open-meteo.com
+
+📍 Map Integration
+Show location map, routes, nearby POIs
+Leaflet.js (open source) + OpenStreetMap tiles
+
+💬 User Reviews (optional)
+Show ratings/comments about places
+Google Places API (paid after a limit) or build manual user reviews via your backend
+
+❤️ Favorites / Wishlist (optional)
+Let users save places they like
+Store in your backend (MongoDB / Firebase)
+
+
+____________________
+
+
+https://themewagon.github.io/direngine/
