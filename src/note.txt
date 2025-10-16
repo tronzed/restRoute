@@ -24,7 +24,7 @@ Show top attractions, landmarks, and fun things to do in a location
 OpenTripMap API (✅ Free tier, good coverage) → https://opentripmap.io
 
 🎯 Activities / Things to Do
-Fetch things like tours, hiking spots, museums, etc.
+Fetch things like tours, hiking spots, museums, etc. 
 Triposo API (limited free) or reuse OpenTripMap categories
 
 🏨 Nearby Hotels
